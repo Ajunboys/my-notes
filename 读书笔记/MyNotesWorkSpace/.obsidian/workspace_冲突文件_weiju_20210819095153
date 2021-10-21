@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "61e00373794418cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ddb1e205ab4c4ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "读书笔记/职业技能扩展阅读/【职业技能扩展阅读】.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c853fbef27f37578",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6906a9b2492d51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d08cd47a726ccc5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0655683d2d724aea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18e000c490c418e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09399fdb6a521136",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3178635a15273c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8703dece05791c2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/职业技能扩展阅读/【职业技能扩展阅读】.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6afa7ba38b43cd39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "327ed467f86c4d8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd33f22ae2da2582",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8ddb1e205ab4c4ea",
+  "lastOpenFiles": [
+    "读书笔记/职业技能扩展阅读/【职业技能扩展阅读】.md",
+    "读书笔记/小说类/【小说类】.md",
+    "读书笔记/自我管理-经济管理类/【自我管理-经济管理类】.md",
+    "读书笔记/心理学-亲子教育-家庭关系/【心理学-亲子教育-家庭关系】.md",
+    "读书笔记/心理学-亲子教育-家庭关系/《非暴力沟通：为何家会伤人》已读完.md",
+    "读书笔记/心理学-亲子教育-家庭关系/《真希望我父母读过这本书》已读完.md",
+    "读书笔记/心理学-亲子教育-家庭关系/《可怕的2岁，麻烦的3岁》已读完.md",
+    "《用孩子的逻辑化解孩子的情绪》.md",
+    "《钢琴入门自学教程》.md",
+    "读书笔记/兴趣爱好/【兴趣爱好】.md"
+  ]
+}

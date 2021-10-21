@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "61e00373794418cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6e745dbcff6536",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "我的笔记/2021年笔记/【2021年笔记】.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c853fbef27f37578",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6906a9b2492d51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d08cd47a726ccc5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0655683d2d724aea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#chapter1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18e000c490c418e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "55a5469c55e945c8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.99999809265137
+  },
+  "right": {
+    "id": "09399fdb6a521136",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3178635a15273c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8703dece05791c2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "我的笔记/2021年笔记/【2021年笔记】.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6afa7ba38b43cd39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "327ed467f86c4d8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd33f22ae2da2582",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a22e77f4b998465f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28d941a8458ceb4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "我的笔记/2021年笔记/【2021年笔记】.md"
+              }
+            }
+          },
+          {
+            "id": "0123ed447e18a130",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "我的笔记/2021年笔记/【2021年笔记】.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ddbb8c24d409c5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c4431344e19f75d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "62092f894b6703c7",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8f1af1379f7d97f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.1429443359375,
+    "collapsed": true
+  },
+  "active": "0a6e745dbcff6536",
+  "lastOpenFiles": [
+    "我的笔记/2021年笔记/【2021年笔记】.md",
+    "我的笔记/【我的日常笔记】.md",
+    "我的笔记/2021年笔记/2021年8月/【2021年8月笔记】.md",
+    "我的笔记/2021年笔记/2021年9月/【2021年9月笔记】.md",
+    "学习笔记/未命名.md",
+    "我的简历/【我的简历】.md",
+    "读书笔记/心理学-亲子教育-家庭关系/【心理学-亲子教育-家庭关系】.md",
+    "读书笔记/小说类/【小说类】.md",
+    "总目录.md",
+    "我的学习笔记/PMP考证/【2021-09-25考试】.md"
+  ]
+}

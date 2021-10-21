@@ -21,7 +21,7 @@ ___
 ** 这是粗体字 **
 
 - 代码片段
-`java
+```java
 package com.example.java;
 
 public class Hello {
@@ -29,4 +29,4 @@ public class Hello {
 		  System.out.println("这是代码片段");
 	}
 }
-`
+```

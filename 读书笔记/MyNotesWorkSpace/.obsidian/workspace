@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6e745dbcff6536",
+        "id": "53c70ed004ecf9cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "我的笔记/2021年笔记/【2021年笔记】.md",
-            "mode": "source"
+            "file": "学习笔记/了不起的Markdown.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chapter1",
+                "query": "tag:#在读",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的笔记/2021年笔记/【2021年笔记】.md",
+                "file": "学习笔记/了不起的Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的笔记/2021年笔记/【2021年笔记】.md"
+                "file": "学习笔记/了不起的Markdown.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的笔记/2021年笔记/【2021年笔记】.md",
+                "file": "学习笔记/了不起的Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "id": "62092f894b6703c7",
             "type": "leaf",
             "state": {
-              "type": "toggl-report",
+              "type": "empty",
               "state": {}
             }
           },
@@ -180,7 +180,7 @@
             "id": "a8f1af1379f7d97f",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
               "state": {}
             }
           }
@@ -192,17 +192,17 @@
     "width": 315.1429443359375,
     "collapsed": true
   },
-  "active": "0a6e745dbcff6536",
+  "active": "53c70ed004ecf9cd",
   "lastOpenFiles": [
-    "我的笔记/2021年笔记/【2021年笔记】.md",
-    "我的笔记/【我的日常笔记】.md",
-    "我的笔记/2021年笔记/2021年8月/【2021年8月笔记】.md",
-    "我的笔记/2021年笔记/2021年9月/【2021年9月笔记】.md",
-    "学习笔记/未命名.md",
-    "我的简历/【我的简历】.md",
-    "读书笔记/心理学-亲子教育-家庭关系/【心理学-亲子教育-家庭关系】.md",
+    "学习笔记/了不起的Markdown.md",
+    "我的技术笔记/Java基础与核心/Java基础知识点.md",
+    "读书笔记/小说类/《爱读书的妖精》.md",
+    "读书笔记/小说类/《将死未死的青》.md",
+    "读书笔记/小说类/《人间失格》.md",
+    "读书笔记/小说类/《偷书贼》.md",
+    "读书笔记/小说类/《夏天，烟火和我的尸体》.md",
+    "读书笔记/小说类/《夏天，烟火和我的尸体与将死未死的青：读后感》.md",
     "读书笔记/小说类/【小说类】.md",
-    "总目录.md",
-    "我的学习笔记/PMP考证/【2021-09-25考试】.md"
+    "《疼》.md"
   ]
 }
